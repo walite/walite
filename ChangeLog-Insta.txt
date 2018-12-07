@@ -1,1 +1,30 @@
+{"version_code":7,"content":"
+<p>تحيث 1.30</p>
 
+<li> التحديث لنسخة الماركت 71.0.0.18.102</li>
+<li> يمكنك الاتصال صوت وصورة</li>
+<li> يمكنك استخدام منصة IGTV للفيديوهات</li>
+<li> يمكنك طلب شارة التحقق الزرقاء لملف الشخصي</li>
+<li> يمكنك طرح الأسئلة في القصة(الستوري)</li>
+<li> يمكنك عمل منشن أو تاق في القصة(الستوري)</li>
+<li> يمكنك إضافة مقطع موسيقي في القصة (الستوري)</li>
+<li> يمكنك تمييز المحادثات في قسم الخاص</li>
+<li> تفعيل ميزة حالة النشاط (آخر ظهور) لمعرفة تواجد الاصدقاء المتصلين في البرنامج</li>
+<li> إصلاح الانهيار عند محاولة تحميل صورة او فيديو</li>
+<li> إصلاح لون الفقاعات في المحادثة عند الرد على الستوري</li>
+<li> إصلاح بعض الالوان بعد الضغط على اي منشور في قسم البحث</li>
+<li> إصلاحات أخرى</li>
+
+<li> New Base Updated to 71.0.0.18.102</li>
+<li> Added Support for IGTV</li>
+<li> Added Video Calls</li>
+<li> You can make a chat favourite</li>
+<li> Now can Add Voice Note in Story</li>
+<li> Now can Add Tag in Story</li>
+<li> Fixed Bubble Color when Reply to Story</li>
+<li> Fixed Themes after Viewing Post in Search</li>
+<li> Fixed Crash when Click on Download/Preview</li>
+<li> Many More Fixes</li>
+
+","url":"https://www.devsaif.com/2018/05/SAiNSTA.html"
+}
