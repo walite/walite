@@ -1,4 +1,4 @@
-{"version_code":7,"content":"
+{"version_code":9,"content":"
 <p>تحيث 1.30</p>
 
 <li> التحديث لنسخة الماركت 71.0.0.18.102</li>
