@@ -1,1 +1,48 @@
+{"version_code":452577,"content":"
+<p> تحديث|Update 1.00</p>
 
+<li> التحديث لنسخة الماركت 2.18.341</li>
+<li> اضافة ميزة  إيقاف استقبال المكالمات (بحيث يمكنك ايقافها بدون ان يظهر للطرف الاخر ان هاتفك يرن وييظهر له جاري الاتصال)</li>
+<li> اضافة ميزة اظهار صحين الازرق فقط بعد الرد</li>
+<li> اضافة ميزة منع حذف حالة صديقك</li>
+<li> اضافة خيار لتغير لون (الخصوصية المخصصة) الى اللون الاسود</li>
+<li> تفعيل ميزة الملصقات يمكنك الآن تنزيل الملصقات المعبرة واستخدامها في الدردشات</li>
+<li> اضافة خيار لاصلاح الفراغ الموجود اعلى الشاشة عند تغير الواجهة</li>
+<li> امكانية تغير واجهة الاعدادات الى 4 اشكال </li>
+<li> امكانية تغير شكل الحالة /الستوري الى 3 اشكال </li>
+<li> تفعيل معرفة الرسائل المعاد إرسالها</li>
+<li> اضافة خيار لاعادة تعين كل الاعدادات الى وضعها الافتراضي</li>
+<li> بإمكانك الآن تمرير الرسالة من اليسار إلى اليمين للرد عليها</li>
+<li> تفعيل ميزة حفظ مكان القراءة حيث عند فتح محادثة سابقة توقفت فيها عند كلمة معينة سوف تظهر مباشرة عند الدخول الى المحادثة مرة أخرى</li>
+<li> ‏تفعيل ميزة المكالمات الجماعية</li>
+<li> تفعيل ميزة صورة داخل الصورة</li>
+<li> إزالة الحد الأدنى لعمل إعادة توجية لمستخدمين دولة الهند</li>
+<li> زياده عدد الاشخاص عند إعادة الارسال إلى 100 شخص</li>
+<li> اصلاحات اخرى</li>
+
+
+
+
+<li> New Base Updated to 2.18.341</li>
+<li> Added Option to Block Calls with/without Showing Ringing to Opp Person.(thanks GbMods)</li>
+<li> Show Blue ticks after reply (thanks B58Mods & YoMods)</li>
+<li> Added DarkTheme For Custom privacy</li>
+<li> Added Anti-Delete status</li>
+<li> Added Option to Fix Old UI space bug </li>
+<li> Ability to change lite settings style (4 Styles)</li>
+<li> Ability to change Status Style Row (3 Styles)</li>
+<li> Added Option to Reset All Options to default</li>
+<li> Enabled Stickers</li>
+<li> Enabled Swipe To Reply</li>
+<li> Enabled Group Calls</li>
+<li> Enabled PiP </li>
+<li> Enabled Forwarded messages label </li>
+<li> Increased Forward Limit for Indian Users</li>
+<li> Increased Multicast to 100</li>
+<li> Added Option to share Soula WA Lite with your friends</li>
+<li> Fixed launcher icon Changer</li>
+<li> Many Other Fixes</li>
+
+
+","url":"https://soula10.blogspot.com/2017/05/soula-wa-soula-wa-v500.html"
+}
