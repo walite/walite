@@ -1,10 +1,9 @@
-{"version_code":9,"content":"
+{"version_code":7,"content":"
 <p>تحديث 1.40</p>
 
-<li> التحديث لنسخة الماركت 75.0.0.23.99</li>
+<li> التحديث لنسخة الماركت 71.0.0.18.102</li>
 <li> يمكنك الاتصال صوت وصورة</li>
 <li> يمكنك استخدام منصة IGTV للفيديوهات</li>
-<li> إمكانية إرسال رسائل صوتية</i>
 <li> يمكنك طلب شارة التحقق الزرقاء لملف الشخصي</li>
 <li> يمكنك طرح الأسئلة في القصة(الستوري)</li>
 <li> يمكنك عمل منشن أو تاق في القصة(الستوري)</li>
@@ -16,10 +15,9 @@
 <li> إصلاح بعض الالوان بعد الضغط على اي منشور في قسم البحث</li>
 <li> إصلاحات أخرى</li>
 
-<li> New Base Updated to 75.0.0.23.99</li>
+<li> New Base Updated to 71.0.0.18.102</li>
 <li> Added Support for IGTV</li>
 <li> Added Video Calls</li>
-<li> Added Audio messages</li>
 <li> You can make a chat favourite</li>
 <li> Now can Add Voice Note in Story</li>
 <li> Now can Add Tag in Story</li>
