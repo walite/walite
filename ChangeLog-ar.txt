@@ -1,4 +1,4 @@
-{"version_code":452667,"content":"
+{"version_code":452666,"content":"
 <p> تحديث|Update 1.00</p>
 
 <li> التحديث لنسخة الماركت 2.18.341</li>
