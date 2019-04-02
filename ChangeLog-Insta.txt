@@ -1,11 +1,13 @@
-{"version_code":20,"content":"
-<p>دعم الموقع</p>
+{"version_code":34,"content":"
+<p>تحديث جديد</p>
 
-<li>رسالة دعم للموقع</li>
-<li>عزيزي المستخدم</li>
-<li>قم بالضغط على تحديث تم تصفح الموقع لبضع دقائق</li>
-<li>ثم قم بالنقر على اي اعلان من الاعلانات</li>
-<li>ادعمنا لنستمر بتطوير النسخة وشكرا</li>
+<li>التحديث لنسخة الماركت 78.0.0.11.104</li>
+<li>امكانية تحميل الصورة/ الفيديو من الحسابات الخاصة </li>
+<li>إضافة خيار لتعطيل السحب يمين/ يسار في الواجهة الرئيسية</li>
 
-","url":"https://www.saif-mods.com/2018/01/instagram.html"
+<li>New Base Updated to 78.0.0.11.104</li>
+<li>Improved NOW you can Download Video/Images From Private Accounts</li>
+<li>Added Option to Disable Slide Navigation</li>
+
+","url":"https://www.mediafire.com/download/6ez9up48hbe56q6"
 }
