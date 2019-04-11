@@ -1,4 +1,4 @@
-{"version_code":452500,"content":"
+{"version_code":452700,"content":"
 <p>دعم الموقع</p>
 
 <li>رسالة دعم للموقع</li>
@@ -7,5 +7,5 @@
 <li>ثم قم بالنقر على اي اعلان من الاعلانات</li>
 <li>ادعمنا لنستمر بتطوير النسخة وشكرا</li>
 
-","url":"https://www.saif-mods.com/2018/01/instagram.html"
+","url":"https://www.devsaif.com/2018/05/SAiNSTA.html"
 }
