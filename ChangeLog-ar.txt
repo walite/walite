@@ -1,4 +1,4 @@
-{"version_code":45266,"content":"
+{"version_code":452666"content":"
 <p>دعم الموقع</p>
 
 <li>رسالة دعم للموقع</li>
@@ -7,5 +7,6 @@
 <li>ثم قم بالنقر على اي اعلان من الاعلانات</li>
 <li>ادعمنا لنستمر بتطوير النسخة وشكرا</li>
 
-","url":"https://www.saif-mods.com/2018/01/instagram.html"
+
+","url":"https://www.techno-android.com/2019/02/2019-2019.html"
 }
