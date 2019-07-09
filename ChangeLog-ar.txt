@@ -1,4 +1,4 @@
-{"version_code":452,"content":"
+{"version_code":452999,"content":"
 <p>دعم الموقع</p>
 
 <li>رسالة دعم للموقع</li>
@@ -7,5 +7,5 @@
 <li>ثم قم بالنقر على أي إعلان من الإعلانات</li>
 <li>إدعمنا لنستمر بتطوير النسخة وشكرا</li>
 
-","url":"https://www.techno-android.com/2019/02/2019-2019.html"
+","url":"https://www.saifroid.com/2018/06/InstaPro.html"
 }
